@@ -1,2 +1,11 @@
 dwm 6.3 all in one
-status, autostart
+
+integrted status text
+status2d systary
+underlinetags
+noborder
+alwayscenter
+pertag
+cool-autostart
+centertitle
+threecolumns
